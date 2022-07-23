@@ -111,9 +111,6 @@
 </a>
 </p>
 <br />
-<br />
-<br />
-<br />
 Credits for Readme design : codeSTACKr (https://github.com/codeSTACKr) and (https://giphy.com/) for the GIF.
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
