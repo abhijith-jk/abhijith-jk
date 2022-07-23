@@ -104,7 +104,7 @@ Credits for Readme design : codeSTACKr (https://github.com/codeSTACKr)
 <br />
 <br />
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=abhijith-jk &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijith-jk&theme=radical)
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
