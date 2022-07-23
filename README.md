@@ -16,9 +16,9 @@
 - 🥅 2022 Goals: Contribute more on Github
 - ⚡ Fun fact: I love to play games and am learning game development
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
-
+<br />
 <img alt="Coding GIF via GIPHY" src="img\giphy.gif" align="right"/>
-
+<br />
 ### Connect with me:
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
