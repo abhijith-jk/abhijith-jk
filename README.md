@@ -1,11 +1,11 @@
  # Hi there, I'm Abhijith
 
-## I'm a Student and developer improving everyday
+## I'm a student and developer improving everyday
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Currently striving to better my front-end skills
 - 👯 Working on various projects with other developers
 - 🥅 2022 Goals: Contribute more on Github
-- ⚡ Fun fact: I love to play games and am learning game development
+- ⚡ Fun fact about me: I love video games and am learning game development as a hobby
 
 <img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align="right"/>
 
