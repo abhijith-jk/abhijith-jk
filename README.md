@@ -1,10 +1,10 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhijith</h1>
-<h3 align="center">A student and developer</h3>
+<h2 align="center">A student and developer</h2>
 
   ```js
   const i = {}
-  i.am = "Undergraduate majoring in Computer Science & Engineering, striving to improve everyday"
-  i.love = ['JavaScript','Travelling','Exploring Challenges','TheWeeknd','ManchesterUnited']
+  i.am = "an undergraduate majoring in Computer Science & Engineering, striving to improve everyday"
+  i.love = ['JavaScript','React','Exploring Challenges','Design','Travelling','TheWeeknd','ManchesterUnited']
   i.aspire = "to do my part to make this world a better place"
   ```
 
