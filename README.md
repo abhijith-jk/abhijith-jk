@@ -1,6 +1,8 @@
- # Hi there, I'm Abhijith
+ <!-- <a href="#"><img width="70%" height="auto" src="https://i.ibb.co/R21z8NV/Pngtree-a-man-who-works-at-5361911.png"/></a> -->
 
-## I'm a student and developer improving everyday
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhijith</h1>
+<h3 align="center">I'm an undergraduate majoring in Computer Science & Engineering,</h3>
+<h3 align="center">And a student and developer improving everyday</h3>
 
 - 🌱 Currently striving to better my front-end skills
 - 👯 Working on various projects with other developers
