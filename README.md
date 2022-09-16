@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhijith</h1>
 <h3 align="center">A student and developer</h3>
 
-  ```
+  ```js
   const i = {}
   i.am = "Undergraduate majoring in Computer Science & Engineering, striving to improve everyday"
   i.love = ['JavaScript','Travelling','Exploring Challenges','TheWeeknd','ManchesterUnited']
