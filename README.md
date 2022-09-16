@@ -55,8 +55,10 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/abhijithjk#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abhijithjk#gh-dark-mode-only)
 &nbsp;&nbsp;
-<br/>
-<br/>
+
+<br />
+<br />
+
 Credits for Readme design : codeSTACKr (https://github.com/codeSTACKr) and (https://giphy.com/) for the GIF.
 
 
