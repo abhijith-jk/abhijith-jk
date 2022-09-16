@@ -3,11 +3,9 @@
 <h3 align="center">and a student and developer improving everyday.</h3>
 
 <h3 align="center"> 
-  ```
-var add2 = function(number) {
+  ```var add2 = function(number) {
   return number + 2;
-}
-```js
+}```js
 </h3>
 
 ## 🙋‍♂️ About Me
