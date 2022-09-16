@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Contribute more on Github
 - ⚡ Fun fact about me: I love video games and am learning game development as a hobby
 
-<img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align="right"/>
+<img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align="center"/>
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/abhijithjkamath#gh-light-mode-only)
