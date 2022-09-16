@@ -8,16 +8,6 @@
 - 🥅 2022 Goals: Contribute more on Github
 - ⚡ Fun fact about me: I love video games and am learning game development as a hobby
 
-<img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align="center"/>
-
-### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/abhijithjkamath#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/abhijithjkamath#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/abhijithjk#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abhijithjk#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ## Languages and Tools:
 <p align="center">
 <img align="" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -38,10 +28,9 @@
 <img align="" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 </p>
 
-<br />
-<br />
-<br />
-<br />
+<br/>
+<img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align="center"/>
+<br/>
 <p align="center">
 <a href="https://github.com/abhijith-jk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhijith-jk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -49,6 +38,15 @@
 </a>
 </p>
 <br />
+
+## Connect with me:
+[![website](./img/twitter-light.svg)](https://twitter.com/abhijithjkamath#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/abhijithjkamath#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/abhijithjk#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abhijithjk#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 Credits for Readme design : codeSTACKr (https://github.com/codeSTACKr) and (https://giphy.com/) for the GIF.
 
 
