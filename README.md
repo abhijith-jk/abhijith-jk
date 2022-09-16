@@ -46,7 +46,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhijith-jk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br />
 
 ## Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/abhijithjkamath#gh-light-mode-only)
