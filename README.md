@@ -2,11 +2,11 @@
 <h3 align="center">I'm an undergraduate majoring in Computer Science & Engineering,</h3>
 <h3 align="center">and a student and developer improving everyday.</h3>
 
-<h3 align="center"> 
+
   ```var add2 = function(number) {
   return number + 2;
-}```js
-</h3>
+  }
+  ```
 
 ## 🙋‍♂️ About Me
 - 🌱 Currently striving to better my front-end skills
