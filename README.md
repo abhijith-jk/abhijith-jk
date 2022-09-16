@@ -1,11 +1,11 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhijith</h1>
-<h3 align="center">I'm an undergraduate majoring in Computer Science & Engineering,</h3>
-<h3 align="center">and a student and developer improving everyday.</h3>
+<h3 align="center">A student and developer</h3>
 
-
-  ```var add2 = function(number) {
-  return number + 2;
-  }
+  ```
+  const i = {}
+  i.am = "Undergraduate majoring in Computer Science & Engineering, striving to improve everyday"
+  i.love = ['JavaScript','Travelling','Exploring Challenges','TheWeeknd','ManchesterUnited']
+  i.aspire = "to do my part to make this world a better place"
   ```
 
 ## 🙋‍♂️ About Me
