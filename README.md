@@ -2,6 +2,14 @@
 <h3 align="center">I'm an undergraduate majoring in Computer Science & Engineering,</h3>
 <h3 align="center">and a student and developer improving everyday.</h3>
 
+<h3 align="center"> 
+  ```
+var add2 = function(number) {
+  return number + 2;
+}
+```js
+</h3>
+
 ## 🙋‍♂️ About Me
 - 🌱 Currently striving to better my front-end skills
 - 👯 Working on various projects with other developers
@@ -49,7 +57,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/abhijithjk#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abhijithjk#gh-dark-mode-only)
 &nbsp;&nbsp;
-
+<br/>
+<br/>
 Credits for Readme design : codeSTACKr (https://github.com/codeSTACKr) and (https://giphy.com/) for the GIF.
 
 
