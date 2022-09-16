@@ -29,8 +29,11 @@
 </p>
 
 <br/>
-<img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align="center"/>
+<div align="center">
+<img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align=""/>
+</div>
 <br/>
+
 <p align="center">
 <a href="https://github.com/abhijith-jk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhijith-jk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
