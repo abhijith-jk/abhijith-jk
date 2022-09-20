@@ -12,7 +12,7 @@
 - 🌱 Currently striving to better my front-end skills
 - 👯 Working on various projects with other developers
 - 🥅 2022 Goals: Contribute more on Github
-- ⚡ Fun fact about me: I love video games and am learning game development as a hobby
+- ⚡ Fun fact about me: I love video games and am learning game development as a hobby whenever I find time
 
 ## Languages and Tools:
 <p align="center">
