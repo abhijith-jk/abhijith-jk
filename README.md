@@ -36,7 +36,7 @@
 
 <br/>
 <div align="center">
-<img alt="Coding GIF via GIPHY" src="img\giphy2.gif" align=""/>
+<img alt="Coding GIF via GIPHY" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47eiboaojbar0hwzcn6i9keh4c1xahxrnu9kittyje&rid=giphy.gif&ct=g" align=""/>
 </div>
 <br/>
 
